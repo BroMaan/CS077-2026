@@ -1,0 +1,5 @@
+﻿1. Create the repository
+2. Click add file
+3. Make sure to end the file with / to close off the folder
+4. Use .gitkeep as a placeholder name
+5. Enter files where they need to go.
