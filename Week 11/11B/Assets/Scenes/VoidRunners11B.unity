@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 235377354}
   - component: {fileID: 235377353}
   - component: {fileID: 235377352}
+  - component: {fileID: 235377356}
   m_Layer: 0
   m_Name: Beacon
   m_TagString: Untagged
@@ -231,6 +232,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &235377356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 235377351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67dbf732e94ee1f4a9d9b250589ca6af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StoryBeacon
+  activeColor: {r: 0, g: 1, b: 1, a: 1}
 --- !u!1 &546147502
 GameObject:
   m_ObjectHideFlags: 0
@@ -370,6 +384,7 @@ GameObject:
   - component: {fileID: 779013410}
   - component: {fileID: 779013409}
   - component: {fileID: 779013412}
+  - component: {fileID: 779013413}
   m_Layer: 0
   m_Name: Runner
   m_TagString: Untagged
@@ -474,6 +489,21 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &779013413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 779013408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c203788502b14449896a5b2d1e63500, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerMover
+  speed: 3
+  interactionRange: 2
+  beacon: {fileID: 0}
 --- !u!1 &1138939854
 GameObject:
   m_ObjectHideFlags: 0
