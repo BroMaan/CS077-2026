@@ -363,3 +363,14 @@ MigrationBackup/
 FodyWeavers.xsd
 /02-Week-02-Systems-Online/evidence/TeamProject/Properties/AssemblyInfo.cs
 /02-Week-02-Systems-Online/evidence/TeamProject/App.config
+
+
+# Unity generated files
+**/Library/
+**/Temp/
+**/Obj/
+**/Build/
+**/Builds/
+**/Logs/
+**/UserSettings/
+
