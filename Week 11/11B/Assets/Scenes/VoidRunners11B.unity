@@ -503,7 +503,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMover
   speed: 3
   interactionRange: 2
-  beacon: {fileID: 0}
+  beacon: {fileID: 235377356}
 --- !u!1 &1138939854
 GameObject:
   m_ObjectHideFlags: 0
