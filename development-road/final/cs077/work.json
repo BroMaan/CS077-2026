@@ -10,7 +10,15 @@
       "branch",
       "settings",
       "inventory",
-      "modular"
+      "modular",
+      "external",
+      "tests",
+      "release",
+      "sales",
+      "tshirt",
+      "ai-promo",
+      "project-mark",
+      "quick-card"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "I pushed aa 3d cube in a unity project",
