@@ -43,6 +43,14 @@
     },
     "evidence": {},
     "tasks": [],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-16",
+        "worked": "Brainstorming on the whiteboard.",
+        "next": "Work on the game on unity",
+        "blocker": "FreeTime/ Claude Code/",
+        "evidence": "https://github.com/vnp3960/CS077-Gaterollers_Das-Finale"
+      }
+    ]
   }
 }
