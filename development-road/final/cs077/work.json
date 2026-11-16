@@ -3,16 +3,20 @@
   "course": "CS077",
   "name": "Roman Calles",
   "work": {
-    "project": "A story worth playing",
-    "path": "story",
+    "project": "Gaterollers",
+    "path": "arcade",
     "selected": [
-      "save"
+      "save",
+      "branch",
+      "settings",
+      "inventory",
+      "modular"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "I pushed aa 3d cube in a unity project",
     "ai": "Claude",
     "aiVerify": "Run tests, inspect code, compare sources",
-    "notes": "",
+    "notes": "Arcade game, we already understand the story and the requirements",
     "plan": "",
     "availability": "",
     "service": "",
