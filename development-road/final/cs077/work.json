@@ -9,7 +9,7 @@
       "save"
     ],
     "engine": "Unity / C#",
-    "gitEvidence": "",
+    "gitEvidence": "I pushed aa 3d cube in a unity project",
     "ai": "Claude",
     "aiVerify": "Run tests, inspect code, compare sources",
     "notes": "",
