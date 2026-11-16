@@ -28,7 +28,7 @@
 ## 1. GAME OVERVIEW & NARRATIVE
 
 ### 1.1 Premise & Vision
-*Pilot Cat* is an original 3D side-scrolling arcade shooter built in **Unity 6 (URP)**. Evolved from our Action 11B whiteboard planning, the game features **Duke "Pilot Cat"**, an ace aviator flying his biplane (*The Viridescent Claw*) through the skies of **Catlandia**. Duke flies freely around the left two-thirds of the screen while Cat Nip supplies and Watch Dogs Order balloons stream in from the right over a slowly drifting sky.
+*Pilot Cat* is an original 3D side-scrolling arcade shooter built in **Unity 6 (URP)**. Evolved from our Action 11B whiteboard planning, the game features **Duke "Pilot Cat"**, an ace aviator flying his biplane (*The Viridescent Claw*) through the skies of **Catlandia**. Duke flies freely around the screen while Cat Nip supplies and Watch Dogs Order balloons stream in from the right over a slowly drifting sky.
 
 ### 1.2 Story & Lore
 Trained by the legendary pilot "Trigger" from Strangereal, Duke operates as an independent aviator delivering vital Cat Nip supplies while evading the oppressive **Watch Dogs Order**. Though labeled a rogue by the dog police, Duke uses his earnings to anonymously support youth orphanages across Settaria.
