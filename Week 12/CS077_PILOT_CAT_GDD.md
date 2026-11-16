@@ -245,8 +245,7 @@ public class PlayerMover : MonoBehaviour
   | Pickup sound | *(fill in source — changed from "Plingy Coin")* | *(fill in license)* |
   | Explosion sound | Kutejnikov, OpenGameArt | CC0 |
   | Shoot sound ("laserpew") | OpenGameArt | CC0 |
-  | Engine loop | *(fill in source)* | *(fill in license)* |
-  | Background music | *(fill in source)* | *(fill in license)* |
-  | Crash sound | *(fill in source)* | *(fill in license)* |
+  | Background music | Solar Striker | (0_0) |
+  | Crash sound | Solar Striker | *(fill in license)* |
 
 * **Appendix D – Screenshots & Media:** Play Mode tests, inspector setups, console logs, and gameplay captures (`2026-11-14_21-30-49.mp4`, `2026-11-15_17-24-12.mp4`).
