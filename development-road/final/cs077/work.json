@@ -131,7 +131,7 @@
     "dailyDraft": {
       "meeting": "CS077-2026-11-18",
       "worked": "Added automated regression tests\nAdded fishsnacks and shield\nadded inventory button and menu that shows collected items\nadded UI messages",
-      "next": "",
+      "next": "I will add a mission state and Two different endings",
       "blocker": "The computer bricked and I had to go through the entire setup again.",
       "evidence": "https://github.com/vnp3960/CS077-Gaterollers_Das-Finale/tree/main"
     },
@@ -296,6 +296,22 @@
         "blocker": "Free time/ Claude Code/",
         "evidence": "https://github.com/vnp3960/CS077-Gaterollers_Das-Finale",
         "tasks": []
+      },
+      {
+        "date": "2026-11-18",
+        "revision": 1,
+        "worked": "Added automated regression tests\nAdded fishsnacks and shield\nadded inventory button and menu that shows collected items\nadded UI messages",
+        "next": "I will add a mission state and Two different endings",
+        "blocker": "The computer bricked and I had to go through the entire setup again.",
+        "evidence": "https://github.com/vnp3960/CS077-Gaterollers_Das-Finale/tree/main",
+        "tasks": [
+          {
+            "title": "Project core/foundation",
+            "due": "2026-11-18T23:59",
+            "done": false,
+            "result": ""
+          }
+        ]
       }
     ]
   },
