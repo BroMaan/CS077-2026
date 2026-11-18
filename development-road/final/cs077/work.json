@@ -43,8 +43,8 @@
       "strokes": []
     },
     "huddle": {
-      "stage": 0,
-      "returned": false,
+      "stage": 1,
+      "returned": true,
       "goal": "",
       "personal": "",
       "questions": ""
