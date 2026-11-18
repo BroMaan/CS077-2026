@@ -129,11 +129,11 @@
     },
     "evidence": {},
     "dailyDraft": {
-      "meeting": "CS077-2026-11-16",
-      "worked": "Brainstorming on the whiteboard.",
-      "next": "Work on the game on unity",
-      "blocker": "Free time/ Claude Code/",
-      "evidence": "https://github.com/vnp3960/CS077-Gaterollers_Das-Finale"
+      "meeting": "CS077-2026-11-18",
+      "worked": "",
+      "next": "",
+      "blocker": "The computer bricked and I had to go through the entire setup again.",
+      "evidence": "https://github.com/vnp3960/CS077-Gaterollers_Das-Finale/tree/main"
     },
     "requirements": [
       {
